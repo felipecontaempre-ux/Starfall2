@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "starfall:verdite_ore",
+    "starfall:aerite_ore",
+    "starfall:umbral_ore",
+    "starfall:verdite_block",
+    "starfall:aerite_block",
+    "starfall:umbral_block",
+    "starfall:whisper_bricks",
+    "starfall:sky_bricks",
+    "starfall:gloom_bricks",
+    "starfall:skystone",
+    "starfall:umbral_crystal",
+    "starfall:whisper_tablet",
+    "starfall:sky_tablet",
+    "starfall:umbral_tablet"
+  ]
+}

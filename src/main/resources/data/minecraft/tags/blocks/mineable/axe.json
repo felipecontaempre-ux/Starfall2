@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "starfall:whisper_log",
+    "starfall:whisper_planks",
+    "starfall:whisper_slab",
+    "starfall:skyroot_log",
+    "starfall:skyroot_planks",
+    "starfall:skyroot_slab",
+    "starfall:gloom_log",
+    "starfall:gloom_planks",
+    "starfall:gloom_slab"
+  ]
+}
