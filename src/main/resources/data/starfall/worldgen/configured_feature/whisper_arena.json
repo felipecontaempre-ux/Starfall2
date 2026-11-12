@@ -1,0 +1,18 @@
+{
+  "type": "starfall:arena",
+  "config": {
+    "floor": {
+      "Name": "starfall:whisper_bricks"
+    },
+    "pillar": {
+      "Name": "starfall:whisper_log"
+    },
+    "lamp": {
+      "Name": "starfall:glowcap_block"
+    },
+    "altar": {
+      "Name": "starfall:whisper_altar"
+    },
+    "radius": 11
+  }
+}

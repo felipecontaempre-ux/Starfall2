@@ -1,0 +1,16 @@
+{
+  "type": "starfall:ruin",
+  "config": {
+    "wall": {
+      "Name": "starfall:whisper_bricks"
+    },
+    "floor": {
+      "Name": "starfall:whisper_bricks"
+    },
+    "tablet": {
+      "Name": "starfall:whisper_tablet"
+    },
+    "loot": "starfall:chests/whisper_ruin",
+    "radius": 5
+  }
+}

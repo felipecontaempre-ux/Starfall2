@@ -1,0 +1,16 @@
+{
+  "type": "starfall:ruin",
+  "config": {
+    "wall": {
+      "Name": "starfall:gloom_bricks"
+    },
+    "floor": {
+      "Name": "starfall:gloom_bricks"
+    },
+    "tablet": {
+      "Name": "starfall:umbral_tablet"
+    },
+    "loot": "starfall:chests/umbral_ruin",
+    "radius": 5
+  }
+}

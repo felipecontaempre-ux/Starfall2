@@ -1,0 +1,16 @@
+{
+  "type": "starfall:ruin",
+  "config": {
+    "wall": {
+      "Name": "starfall:sky_bricks"
+    },
+    "floor": {
+      "Name": "starfall:sky_bricks"
+    },
+    "tablet": {
+      "Name": "starfall:sky_tablet"
+    },
+    "loot": "starfall:chests/sky_ruin",
+    "radius": 5
+  }
+}

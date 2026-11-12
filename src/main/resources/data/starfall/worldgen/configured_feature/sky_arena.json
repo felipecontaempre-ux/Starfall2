@@ -1,0 +1,18 @@
+{
+  "type": "starfall:arena",
+  "config": {
+    "floor": {
+      "Name": "starfall:sky_bricks"
+    },
+    "pillar": {
+      "Name": "starfall:sky_bricks"
+    },
+    "lamp": {
+      "Name": "minecraft:glowstone"
+    },
+    "altar": {
+      "Name": "starfall:sky_altar"
+    },
+    "radius": 11
+  }
+}

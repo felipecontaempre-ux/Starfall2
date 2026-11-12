@@ -1,0 +1,18 @@
+{
+  "type": "starfall:arena",
+  "config": {
+    "floor": {
+      "Name": "starfall:gloom_bricks"
+    },
+    "pillar": {
+      "Name": "starfall:gloom_bricks"
+    },
+    "lamp": {
+      "Name": "starfall:umbral_crystal"
+    },
+    "altar": {
+      "Name": "starfall:umbral_altar"
+    },
+    "radius": 11
+  }
+}
