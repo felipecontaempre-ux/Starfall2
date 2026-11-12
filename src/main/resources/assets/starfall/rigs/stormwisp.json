@@ -1,0 +1,369 @@
+{
+  "texW": 128,
+  "texH": 16,
+  "glow": true,
+  "parts": [
+    {
+      "name": "core",
+      "pivot": [
+        0,
+        17,
+        0
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "tex": [
+        0,
+        0
+      ],
+      "box": [
+        -4,
+        -4,
+        -4,
+        8,
+        8,
+        8
+      ],
+      "anim": [
+        {
+          "type": "bob",
+          "amp": 1.5,
+          "speed": 0.1
+        },
+        {
+          "type": "spin",
+          "axis": "y",
+          "speed": 0.03
+        }
+      ]
+    },
+    {
+      "name": "ring0",
+      "pivot": [
+        0,
+        0,
+        0
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "tex": [
+        76,
+        0
+      ],
+      "box": [
+        -1,
+        -1,
+        -3,
+        2,
+        2,
+        6
+      ],
+      "anim": [
+        {
+          "type": "orbit",
+          "radius": 8,
+          "speed": 0.08,
+          "idx": 0,
+          "count": 4,
+          "hover": 2,
+          "ps": 0
+        }
+      ],
+      "parent": "core"
+    },
+    {
+      "name": "ring1",
+      "pivot": [
+        0,
+        0,
+        0
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "tex": [
+        76,
+        0
+      ],
+      "box": [
+        -1,
+        -1,
+        -3,
+        2,
+        2,
+        6
+      ],
+      "anim": [
+        {
+          "type": "orbit",
+          "radius": 8,
+          "speed": 0.08,
+          "idx": 1,
+          "count": 4,
+          "hover": 2,
+          "ps": 0
+        }
+      ],
+      "parent": "core"
+    },
+    {
+      "name": "ring2",
+      "pivot": [
+        0,
+        0,
+        0
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "tex": [
+        76,
+        0
+      ],
+      "box": [
+        -1,
+        -1,
+        -3,
+        2,
+        2,
+        6
+      ],
+      "anim": [
+        {
+          "type": "orbit",
+          "radius": 8,
+          "speed": 0.08,
+          "idx": 2,
+          "count": 4,
+          "hover": 2,
+          "ps": 0
+        }
+      ],
+      "parent": "core"
+    },
+    {
+      "name": "ring3",
+      "pivot": [
+        0,
+        0,
+        0
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "tex": [
+        76,
+        0
+      ],
+      "box": [
+        -1,
+        -1,
+        -3,
+        2,
+        2,
+        6
+      ],
+      "anim": [
+        {
+          "type": "orbit",
+          "radius": 8,
+          "speed": 0.08,
+          "idx": 3,
+          "count": 4,
+          "hover": 2,
+          "ps": 0
+        }
+      ],
+      "parent": "core"
+    },
+    {
+      "name": "wing_l",
+      "pivot": [
+        4,
+        -1,
+        0
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "tex": [
+        32,
+        0
+      ],
+      "box": [
+        0,
+        -6,
+        0,
+        10,
+        12,
+        1
+      ],
+      "anim": [
+        {
+          "type": "flap",
+          "axis": "y",
+          "amp": 0.6,
+          "speed": 0.9,
+          "phase": 0.0,
+          "ps": 0
+        }
+      ],
+      "parent": "core"
+    },
+    {
+      "name": "wing_r",
+      "pivot": [
+        -4,
+        -1,
+        0
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "tex": [
+        54,
+        0
+      ],
+      "box": [
+        -10,
+        -6,
+        0,
+        10,
+        12,
+        1
+      ],
+      "anim": [
+        {
+          "type": "flap",
+          "axis": "y",
+          "amp": -0.6,
+          "speed": 0.9,
+          "phase": 0.0,
+          "ps": 0
+        }
+      ],
+      "parent": "core"
+    },
+    {
+      "name": "tail0",
+      "pivot": [
+        0,
+        3,
+        4
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "tex": [
+        92,
+        0
+      ],
+      "box": [
+        -1,
+        0,
+        0,
+        2,
+        2,
+        5
+      ],
+      "anim": [
+        {
+          "type": "sway",
+          "axis": "x",
+          "amp": 0.3,
+          "speed": 0.15,
+          "phase": 0.0
+        }
+      ],
+      "parent": "core"
+    },
+    {
+      "name": "tail1",
+      "pivot": [
+        0,
+        0,
+        5
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "tex": [
+        92,
+        0
+      ],
+      "box": [
+        -1,
+        0,
+        0,
+        2,
+        2,
+        5
+      ],
+      "anim": [
+        {
+          "type": "sway",
+          "axis": "x",
+          "amp": 0.3,
+          "speed": 0.15,
+          "phase": 0.6
+        }
+      ],
+      "parent": "tail0"
+    },
+    {
+      "name": "tail2",
+      "pivot": [
+        0,
+        0,
+        5
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "tex": [
+        106,
+        0
+      ],
+      "box": [
+        -1,
+        0,
+        0,
+        2,
+        2,
+        4
+      ],
+      "anim": [
+        {
+          "type": "sway",
+          "axis": "x",
+          "amp": 0.3,
+          "speed": 0.15,
+          "phase": 1.2
+        }
+      ],
+      "parent": "tail1"
+    }
+  ]
+}
