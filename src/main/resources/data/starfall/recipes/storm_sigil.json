@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AFA",
+    "FDF",
+    "AFA"
+  ],
+  "key": {
+    "A": {
+      "item": "starfall:aerite_gem"
+    },
+    "F": {
+      "item": "starfall:cloud_fluff"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "starfall:storm_sigil",
+    "count": 1
+  }
+}

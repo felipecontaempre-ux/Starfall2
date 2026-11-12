@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "GGG",
+    "G G"
+  ],
+  "key": {
+    "G": {
+      "item": "starfall:verdite_gem"
+    }
+  },
+  "result": {
+    "item": "starfall:verdite_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "starfall:aerite_block"
+    }
+  ],
+  "result": {
+    "item": "starfall:aerite_gem",
+    "count": 9
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "FF",
+    "FF"
+  ],
+  "key": {
+    "F": {
+      "item": "starfall:cloud_fluff"
+    }
+  },
+  "result": {
+    "item": "starfall:cloud_block",
+    "count": 1
+  }
+}

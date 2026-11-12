@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "starfall:gloom_log"
+    }
+  ],
+  "result": {
+    "item": "starfall:gloom_planks",
+    "count": 4
+  }
+}

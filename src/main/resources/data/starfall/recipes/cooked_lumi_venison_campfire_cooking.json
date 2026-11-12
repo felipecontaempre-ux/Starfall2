@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "ingredient": {
+    "item": "starfall:lumi_venison"
+  },
+  "result": "starfall:cooked_lumi_venison",
+  "experience": 0.35,
+  "cookingtime": 600
+}

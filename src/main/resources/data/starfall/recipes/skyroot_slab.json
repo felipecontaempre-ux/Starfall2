@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "starfall:skyroot_planks"
+    }
+  },
+  "result": {
+    "item": "starfall:skyroot_slab",
+    "count": 6
+  }
+}

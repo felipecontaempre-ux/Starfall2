@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "starfall:verdant_shard"
+    },
+    {
+      "item": "starfall:tempest_shard"
+    },
+    {
+      "item": "starfall:umbral_shard"
+    },
+    {
+      "item": "minecraft:nether_star"
+    }
+  ],
+  "result": {
+    "item": "starfall:starheart",
+    "count": 1
+  }
+}

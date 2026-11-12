@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "VOV",
+    "OPO",
+    "VOV"
+  ],
+  "key": {
+    "V": {
+      "item": "starfall:verdite_gem"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "P": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "result": {
+    "item": "starfall:whisper_gate",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "starfall:skyroot_log"
+    }
+  ],
+  "result": {
+    "item": "starfall:skyroot_planks",
+    "count": 4
+  }
+}

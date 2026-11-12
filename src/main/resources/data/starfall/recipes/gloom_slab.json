@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "starfall:gloom_planks"
+    }
+  },
+  "result": {
+    "item": "starfall:gloom_slab",
+    "count": 6
+  }
+}

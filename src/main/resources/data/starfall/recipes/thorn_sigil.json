@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "VGV",
+    "GEG",
+    "VGV"
+  ],
+  "key": {
+    "V": {
+      "item": "starfall:verdite_gem"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "starfall:thorn_sigil",
+    "count": 1
+  }
+}

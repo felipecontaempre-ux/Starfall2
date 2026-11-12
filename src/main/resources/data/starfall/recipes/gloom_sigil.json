@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "UPU",
+    "PDP",
+    "UPU"
+  ],
+  "key": {
+    "U": {
+      "item": "starfall:umbral_gem"
+    },
+    "P": {
+      "item": "minecraft:ender_pearl"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "starfall:gloom_sigil",
+    "count": 1
+  }
+}
