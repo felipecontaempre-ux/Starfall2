@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "starfall:block/gloom_log"
+    },
+    "axis=z": {
+      "model": "starfall:block/gloom_log",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "starfall:block/gloom_log",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

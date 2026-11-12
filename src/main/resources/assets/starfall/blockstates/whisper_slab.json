@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "starfall:block/whisper_slab"
+    },
+    "type=top": {
+      "model": "starfall:block/whisper_slab_top"
+    },
+    "type=double": {
+      "model": "starfall:block/whisper_planks"
+    }
+  }
+}

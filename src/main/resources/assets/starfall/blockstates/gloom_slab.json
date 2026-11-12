@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "starfall:block/gloom_slab"
+    },
+    "type=top": {
+      "model": "starfall:block/gloom_slab_top"
+    },
+    "type=double": {
+      "model": "starfall:block/gloom_planks"
+    }
+  }
+}
