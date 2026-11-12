@@ -1,0 +1,68 @@
+{
+  "temperature": 0.7,
+  "downfall": 0.4,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 7913215,
+    "fog_color": 14478335,
+    "water_color": 5284095,
+    "water_fog_color": 1986720,
+    "grass_color": 7918190,
+    "foliage_color": 7260300
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "starfall:stormwisp",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ],
+    "creature": [
+      {
+        "type": "starfall:cloud_puff",
+        "weight": 22,
+        "minCount": 2,
+        "maxCount": 4
+      }
+    ],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "creature_spawn_probability": 0.12,
+  "carvers": {
+    "air": []
+  },
+  "features": [
+    [
+      "starfall:sky_paint"
+    ],
+    [],
+    [],
+    [],
+    [
+      "starfall:sky_ruin",
+      "starfall:sky_arena"
+    ],
+    [],
+    [
+      "starfall:aerite_ore"
+    ],
+    [],
+    [],
+    [
+      "starfall:cloud_clumps",
+      "starfall:skyroot_trees",
+      "starfall:sunbloom_patch",
+      "minecraft:patch_grass_plain",
+      "minecraft:patch_tall_grass_2"
+    ],
+    []
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "temperature": 0.2,
+  "downfall": 0.4,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 1969720,
+    "fog_color": 3546714,
+    "water_color": 5255820,
+    "water_fog_color": 1575986,
+    "grass_color": 5913730,
+    "foliage_color": 9193130,
+    "particle": {
+      "probability": 0.005,
+      "options": {
+        "type": "minecraft:ash"
+      }
+    }
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "starfall:gloom_crawler",
+        "weight": 100,
+        "minCount": 2,
+        "maxCount": 4
+      }
+    ],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "creature_spawn_probability": 0.12,
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [
+      "starfall:umbral_ruin",
+      "starfall:umbral_arena"
+    ],
+    [],
+    [
+      "minecraft:ore_coal_upper",
+      "minecraft:ore_iron_upper",
+      "minecraft:ore_iron_middle",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis",
+      "minecraft:ore_copper",
+      "starfall:umbral_ore",
+      "starfall:umbral_crystal_veins",
+      "starfall:umbral_crystal_dense"
+    ],
+    [],
+    [],
+    [
+      "starfall:gloom_trees",
+      "starfall:gloomcap_patch"
+    ],
+    []
+  ]
+}
