@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="starfall"
+version="1.0.0"
+displayName="Starfall: Shattered Realms"
+description='''
+A estrela partiu-se em tres. Atravesse as fendas, derrote os guardioes e reforje a Starheart.
+'''
+
+[[dependencies.starfall]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.starfall]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
