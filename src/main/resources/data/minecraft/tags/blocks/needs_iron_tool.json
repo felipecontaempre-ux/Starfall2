@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "starfall:verdite_ore",
+    "starfall:aerite_ore",
+    "starfall:verdite_block",
+    "starfall:aerite_block",
+    "starfall:umbral_block"
+  ]
+}
