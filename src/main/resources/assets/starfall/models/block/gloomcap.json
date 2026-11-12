@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "starfall:block/gloomcap"
+  },
+  "render_type": "minecraft:cutout"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "starfall:block/gloom_log_top",
+    "side": "starfall:block/gloom_log"
+  }
+}

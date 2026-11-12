@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "starfall:block/gloom_planks",
+    "top": "starfall:block/gloom_planks",
+    "side": "starfall:block/gloom_planks"
+  }
+}

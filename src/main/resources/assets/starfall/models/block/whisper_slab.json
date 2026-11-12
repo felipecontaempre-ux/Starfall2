@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "starfall:block/whisper_planks",
+    "top": "starfall:block/whisper_planks",
+    "side": "starfall:block/whisper_planks"
+  }
+}

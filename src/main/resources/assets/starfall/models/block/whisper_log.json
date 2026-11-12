@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "starfall:block/whisper_log_top",
+    "side": "starfall:block/whisper_log"
+  }
+}

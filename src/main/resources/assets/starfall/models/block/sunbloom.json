@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "starfall:block/sunbloom"
+  },
+  "render_type": "minecraft:cutout"
+}

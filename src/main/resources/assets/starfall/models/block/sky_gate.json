@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "starfall:block/sky_gate"
+  },
+  "render_type": "minecraft:translucent"
+}
