@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "starfall:star_blade"
+    },
+    "title": {
+      "translate": "advancement.starfall.kill_aurelion.title"
+    },
+    "description": {
+      "translate": "advancement.starfall.kill_aurelion.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "c": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "starfall:aurelion"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "starfall:starheart"
+}

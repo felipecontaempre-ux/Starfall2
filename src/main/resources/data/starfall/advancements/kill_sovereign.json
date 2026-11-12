@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "starfall:tempest_shard"
+    },
+    "title": {
+      "translate": "advancement.starfall.kill_sovereign.title"
+    },
+    "description": {
+      "translate": "advancement.starfall.kill_sovereign.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "c": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "starfall:storm_sovereign"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "starfall:skyreach"
+}

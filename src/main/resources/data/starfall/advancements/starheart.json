@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "starfall:starheart"
+    },
+    "title": {
+      "translate": "advancement.starfall.starheart.title"
+    },
+    "description": {
+      "translate": "advancement.starfall.starheart.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "c": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "starfall:starheart"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "parent": "starfall:kill_king"
+}
